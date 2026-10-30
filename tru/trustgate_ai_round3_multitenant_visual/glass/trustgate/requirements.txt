@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-docx
+Pillow
+pypdf
+anthropic
+pytest
+httpx
+opencv-python-headless

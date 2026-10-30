@@ -7,3 +7,4 @@ anthropic
 pytest
 httpx
 opencv-python-headless
+gunicorn
